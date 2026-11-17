@@ -101,7 +101,7 @@ docker run -p 8501:8501 bangla-ocr-app:0.1
 ```
 
 ---
-##Visualizations 
+## Visualizations 
 
 ### MLflow Experiment Visualization
 ![MLflow Experiment Screenshot](https://raw.githubusercontent.com/FaisalAhmed21/bangla-ocr-assignment/main/screenshots/mlflow_experiment.png)
