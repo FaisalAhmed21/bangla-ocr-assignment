@@ -101,6 +101,13 @@ docker run -p 8501:8501 bangla-ocr-app:0.1
 ```
 
 ---
+##Visualizations 
+
+### MLflow Experiment Visualization
+![MLflow Experiment Screenshot](https://raw.githubusercontent.com/FaisalAhmed21/bangla-ocr-assignment/main/screenshots/mlflow_experiment.png)
+
+### Streamlit Application Visualization
+![Streamlit App Screenshot](https://raw.githubusercontent.com/FaisalAhmed21/bangla-ocr-assignment/main/screenshots/streamlit_app.png)
 
 ## Limitations
 
