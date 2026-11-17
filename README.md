@@ -71,7 +71,6 @@ Then open `http://localhost:8501` in your browser.
 
 ## Limitations
 
-- Whole-word predictions are constrained to the vocabulary in `words.txt`.
 - Because BanglaLekha-Isolated does not include standalone vowel signs (kar), words are matched primarily on their base consonant sequences.
 - Segmentation can degrade on heavily overlapping characters or words drawn without a clear matra.
 - Mouse/touchpad drawings on a digital canvas have a slight domain gap compared to scanned pen-on-paper dataset samples.
