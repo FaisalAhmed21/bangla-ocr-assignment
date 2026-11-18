@@ -1,0 +1,10 @@
+data/
+mlruns/
+artifacts/
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.zip
+.git/
+screenshots/

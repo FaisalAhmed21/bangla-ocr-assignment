@@ -1,0 +1,10 @@
+data/
+mlruns/
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.zip
+.DS_Store
+models/model_*.keras
+models/best_val_accuracy.txt
